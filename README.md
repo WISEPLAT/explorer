@@ -20,7 +20,7 @@ BTC Address: 1AGxSzTPkthdNKfY5usVLwKDLk9i6sPTQj
 
 ##Installation
 
-`git clone https://github.com/carsenk/explorer`
+`git clone https://github.com/FungBitcoin/explorer.git`
 
 `npm install`
 
