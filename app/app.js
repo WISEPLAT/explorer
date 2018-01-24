@@ -3,7 +3,7 @@
 // TODO: Put go into a config.js
 // But how to include a file from local?
 
-var GWSH_HOSTNAME	= "54.37.139.101";	// put your IP address!
+var GWSH_HOSTNAME	= "localhost";	// put your IP address!
 var APP_HOSTNAME 	= "See package.json --> scripts --> start: Change 'localhost'!!!";
 
 var GWSH_RPCPORT  	= 8545; 		// for gwsh --rpcport GWSH_RPCPORT
